@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "湖湘人文"
-  text: "一个针对人文的 iSharkFly 子网站"
+  text: "iSharkFly 人文子网站"
   tagline: My great project tagline
   actions:
     - theme: brand
