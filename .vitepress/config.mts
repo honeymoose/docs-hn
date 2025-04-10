@@ -20,16 +20,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            {text: 'Home', link: '/'},
-            {text: 'Examples', link: '/markdown-examples'}
+            {text: '主页', link: '/'},
+            {text: 'iSharkFly', link: 'https://www.isharkfly.com'}
         ],
 
         sidebar: [
             {
-                text: 'Examples',
+                text: '',
                 items: [
-                    {text: 'Markdown Examples', link: '/markdown-examples'},
-                    {text: 'Runtime API Examples', link: '/api-examples'}
+                    {
+                        text: '湘南地区村落',
+                        collapsed: true,
+                        items: [
+                            {text: '大皮口村', link: '/yong-zhou/ling-ling/da-pi-kou-cun/index'},
+                            {text: '毛坪里村', link: '/yong-zhou/ling-ling/mao-ping-li-cun/index'}
+                        ]
+                    },
+                    {text: '短文', link: '/api-examples'}
                 ]
             }
         ],

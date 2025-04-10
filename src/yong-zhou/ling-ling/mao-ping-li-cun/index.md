@@ -6,7 +6,25 @@
 
 这里有天时、地别的因素，也有人为因素。根据考察所获，对毛坪里古村的基本要素、古今状况，作以下描述。
 
-[chapter 01](chapter-01.md ':include')
+<!--@include: chapter-01.md -->
+
+<!--@include: chapter-02.md -->
+
+<!--@include: chapter-03.md -->
+
+<!--@include: chapter-04.md -->
+
+<!--@include: chapter-05.md -->
+
+<!--@include: chapter-06.md -->
+
+<!--@include: chapter-07.md -->
+
+<!--@include: chapter-08.md -->
+
+<!--@include: chapter-09.md -->
+
+
 
 [chapter 02](chapter-02.md ':include')
 
