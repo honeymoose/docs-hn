@@ -33,7 +33,7 @@ GitHub 上有关 CWIKIUS.CN 的项目：[https://github.com/honeymoose/docs-hn.g
 ### GitHub
 GitHub 有关本项目的镜像，请参考：
 
-[https://github.com/cwikius-cn/docs-hn](https://github.com/cwikius-cn/docs-hn)
+[https://github.com/honeymoose/docs-hn.git](https://github.com/honeymoose/docs-hn.git)
 
 ## 关于 CWIKIUS.CN 
 致力于对相关文化内容进行整理和传播。
