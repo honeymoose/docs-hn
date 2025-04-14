@@ -6,18 +6,18 @@
 
 2018年12月，大皮口村被列入第五批中国传统村落名录。
 
-[chapter 01](chapter-01.md ':include')
+<!--@include: chapter-01.md -->
 
-[chapter 02](chapter-02.md ':include')
+<!--@include: chapter-02.md -->
 
-[chapter 03](chapter-03.md ':include')
+<!--@include: chapter-03.md -->
 
-[chapter 04](chapter-04.md ':include')
+<!--@include: chapter-04.md -->
 
-[chapter 05](chapter-05.md ':include')
+<!--@include: chapter-05.md -->
 
-[chapter 06](chapter-06.md ':include')
+<!--@include: chapter-06.md -->
 
-[chapter 07](chapter-07.md ':include')
+<!--@include: chapter-07.md -->
 
-[chapter 08](chapter-08.md ':include')
+<!--@include: chapter-08.md -->
