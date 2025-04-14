@@ -33,6 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         collapsed: true,
                         items: [
                             {text: '大皮口村', link: '/yong-zhou/ling-ling/da-pi-kou-cun/index'},
+                            {text: '芬香村', link: '/yong-zhou/ling-ling/fen-xiang-cun/index'},
                             {text: '毛坪里村', link: '/yong-zhou/ling-ling/mao-ping-li-cun/index'}
                         ]
                     },

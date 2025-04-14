@@ -1,4 +1,4 @@
-#  民族融合的湘南典范 —— 传统村落大庆坪乡芬香村
+# 民族融合的湘南典范 —— 传统村落大庆坪乡芬香村
 
 从零陵古城出发，行车一个多小时，到达大庆坪镇，再从大庆坪镇向南转，沿山路而行，是一条长约6公里的乡村公路。放眼望去，远处山峦起伏，墨绿尽染层林。
 
@@ -14,14 +14,14 @@
 
 ![芬香村村口游客中心|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/f28c233cb6e2d1445abbbeeb00506d4a9398da7a.jpeg ':size=690')
 
-[chapter 01](chapter-01.md ':include')
+<!--@include: chapter-01.md -->
 
-[chapter 02](chapter-02.md ':include')
+<!--@include: chapter-02.md -->
 
-[chapter 03](chapter-03.md ':include')
+<!--@include: chapter-03.md -->
 
-[chapter 04](chapter-04.md ':include')
+<!--@include: chapter-04.md -->
 
-[chapter 05](chapter-05.md ':include')
+<!--@include: chapter-05.md -->
 
-[chapter 06](chapter-06.md ':include')
+<!--@include: chapter-06.md -->
