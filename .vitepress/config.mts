@@ -2,8 +2,8 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    srcDir: './src',
-    lang: 'zh-CN',
+    srcDir: './docs',
+    lang: 'zh-Hans',
     title: "湖湘人文",
     description: "湖湘人文",
     head: [
