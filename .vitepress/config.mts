@@ -35,7 +35,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             {text: '大皮口村', link: '/yong-zhou/ling-ling/da-pi-kou-cun/'},
                             {text: '芬香村', link: '/yong-zhou/ling-ling/fen-xiang-cun/'},
                             {text: '毛坪里村', link: '/yong-zhou/ling-ling/mao-ping-li-cun/'},
-                            {text: '塘付村', link: '/yong-zhou/ling-ling/tang-fu-cun/'}
+                            {text: '塘付村', link: '/yong-zhou/ling-ling/tang-fu-cun/'},
+                            {text: '赵家湾村', link: '/yong-zhou/ling-ling/zhao-jia-wan-cun/'},
                         ]
                     },
                     {text: '短文', link: '/api-examples'}
