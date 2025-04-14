@@ -23,21 +23,3 @@
 <!--@include: chapter-08.md -->
 
 <!--@include: chapter-09.md -->
-
-
-
-[chapter 02](chapter-02.md ':include')
-
-[chapter 03](chapter-03.md ':include')
-
-[chapter 04](chapter-04.md ':include')
-
-[chapter 05](chapter-05.md ':include')
-
-[chapter 06](chapter-06.md ':include')
-
-[chapter 07](chapter-07.md ':include')
-
-[chapter 08](chapter-08.md ':include')
-
-[chapter 09](chapter-09.md ':include')
